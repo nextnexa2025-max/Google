@@ -146,3 +146,9 @@ How to expose database tools via MCP
 How to generate natural‑language answers grounded in data
 
 How to integrate visualization into NL queries
+
+🤝 Contributing
+Contributions, improvements, and suggestions are welcome.
+Feel free to open an issue or submit a pull request.
+📄 License
+This project is open‑source under the MIT License.
