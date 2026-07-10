@@ -1,0 +1,209 @@
+1
+00:00:00,118 --> 00:00:05,380
+Every time we use AI, it feels like we are talking to something which knows everything.
+
+2
+00:00:05,380 --> 00:00:06,281
+But we're not.
+
+3
+00:00:06,281 --> 00:00:11,943
+We are talking to a machine which uses billions of numbers making calculated guesses.
+
+4
+00:00:11,943 --> 00:00:15,324
+And every word we talk to AI cost us money.
+
+5
+00:00:15,404 --> 00:00:18,085
+So, how this all actually works?
+
+6
+00:00:18,365 --> 00:00:22,767
+AI is a machine that learns patterns from huge amounts of data.
+
+7
+00:00:22,847 --> 00:00:26,008
+An AI model is the brain of this machine.
+
+8
+00:00:26,089 --> 00:00:30,210
+And this system built entirely on mathematics.
+
+9
+00:00:30,454 --> 00:00:35,558
+Inside this brain, there are billions of numbers which are called parameters.
+
+10
+00:00:35,558 --> 00:00:39,220
+These parameters store everything the model has learned.
+
+11
+00:00:39,420 --> 00:00:47,665
+And based on these parameters, AI decides what to say next, what image to generate, or
+what actions to take.
+
+12
+00:00:47,806 --> 00:00:49,994
+But here is something very interesting.
+
+13
+00:00:49,994 --> 00:00:52,909
+AI cannot read full words like we do.
+
+14
+00:00:52,969 --> 00:00:57,232
+It breaks everything into tiny pieces called tokens.
+
+15
+00:00:57,232 --> 00:00:59,864
+For instance, word understand becomes
+
+16
+00:00:59,864 --> 00:01:02,776
+Two tokens under plus stand.
+
+17
+00:01:02,776 --> 00:01:07,700
+Even the simple sentences like I love choice become three tokens.
+
+18
+00:01:07,700 --> 00:01:09,841
+I plus love plus choice.
+
+19
+00:01:09,841 --> 00:01:16,366
+So when we type in the AI chat box, AI is not reading words, it is reading tokens.
+
+20
+00:01:16,366 --> 00:01:19,188
+These tokens are then converted to numbers.
+
+21
+00:01:19,188 --> 00:01:25,392
+These numbers travel through many layers inside the AI model, something called neural
+network.
+
+22
+00:01:25,552 --> 00:01:28,334
+First layer, look for simple things.
+
+23
+00:01:28,362 --> 00:01:33,184
+Next layer finds the patterns and the next layer understands the bigger idea.
+
+24
+00:01:33,184 --> 00:01:37,165
+Step by step every answer has become clearer.
+
+25
+00:01:37,386 --> 00:01:40,387
+Each connection has its own strength.
+
+26
+00:01:40,387 --> 00:01:44,489
+A number that decides how strong the signal should be.
+
+27
+00:01:44,609 --> 00:01:48,591
+During training, the model keeps guessing the next token.
+
+28
+00:01:48,591 --> 00:01:51,912
+If it is wrong, it adjusts its strength.
+
+29
+00:01:51,912 --> 00:01:57,534
+Then it tries again and again and billion more times until it is right.
+
+30
+00:01:57,856 --> 00:02:03,308
+Once training is done, model is frozen and now it is ready to answer us.
+
+31
+00:02:03,308 --> 00:02:05,949
+This stage is called inference.
+
+32
+00:02:06,090 --> 00:02:14,273
+When we use AI like ChatGPT, Copilot, or Cloud AI, our messages go to a computer called a
+server.
+
+33
+00:02:14,613 --> 00:02:16,994
+The server runs the model for us.
+
+34
+00:02:17,274 --> 00:02:22,117
+And here's something interesting: model doesn't count tokens, the server does.
+
+35
+00:02:22,117 --> 00:02:23,737
+Server counts the tokens.
+
+36
+00:02:23,737 --> 00:02:25,664
+How many tokens we send?
+
+37
+00:02:25,664 --> 00:02:28,657
+And how many tokens AI sends back to us?
+
+38
+00:02:28,657 --> 00:02:30,698
+And we are charged for both.
+
+39
+00:02:30,698 --> 00:02:41,928
+For instance, if we have 200 tokens as an input and AI replies back with 500 tokens as
+output, we pay for 700 tokens in total.
+
+40
+00:02:41,928 --> 00:02:47,853
+And here's the catch: many companies charge more for output tokens than input tokens.
+
+41
+00:02:47,853 --> 00:02:51,596
+So long answers equal higher cost.
+
+42
+00:02:51,596 --> 00:02:54,178
+If AI responds with long stories,
+
+43
+00:02:54,178 --> 00:02:59,842
+Detailed explanations or larger codes, token usage explodes.
+
+44
+00:02:59,862 --> 00:03:07,167
+Even our conversation history we had with AI adds tokens every time we continue chatting
+with the model.
+
+45
+00:03:07,227 --> 00:03:12,831
+This is why cloud AI feels cheap at first but becomes expensive over time.
+
+46
+00:03:12,891 --> 00:03:16,353
+So, how can we avoid these token charges?
+
+47
+00:03:16,393 --> 00:03:19,595
+Local AI models run on our computers.
+
+48
+00:03:19,956 --> 00:03:23,528
+No server, no tracking, no billing.
+
+49
+00:03:23,779 --> 00:03:30,059
+What it means, we can now generate unlimited tokens from AI for free.
+
+50
+00:03:30,059 --> 00:03:36,051
+AI doesn't know everything, it is doing calculated guess for what comes next.
+
+51
+00:03:36,051 --> 00:03:38,833
+And every guess has a cost.
+
